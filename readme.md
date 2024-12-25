@@ -13,10 +13,8 @@ source name\Scripts\activate
 -- to track file we write git add filename, git add .
 -- git status to check the files that I am tracking
 
--- let's commit git commit -m "v1"
-
--- git remote add origin https://github.com/mujeebr/fs_rag_17_dec.git
-
--- git branch -M main
+git remote add origin https://github.com/Zameerkhan16/z_rag.git
+git branch -M main
+git push -u origin main
 
 -- pip install -r requirements.txt
