@@ -1,0 +1,8 @@
+langchain==0.3.13
+sentence-transformers>=1.0.0
+unstructured==0.11.8
+faiss-cpu
+openai
+langchain-community==0.3.13
+streamlit
+torch>=1.6.0
