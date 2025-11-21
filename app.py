@@ -57,3 +57,7 @@ if api_key:
         st.error(f"We ran into an error:{str(e)}")
 else:
     st.warning("Please enter your OpenAI API key in the sidebar")
+
+
+
+https://github.com/Zameerkhan16/z_rag
