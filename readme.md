@@ -22,3 +22,11 @@ source name\Scripts\activate
 --git push -u origin main
 
 -- pip install -r requirements.txt
+
+
+https://github.com/Zameerkhan16/z_rag/blob/main/readme.md
+
+
+https://github.com/Zameerkhan16/z_rag/blob/main/readme.md
+
+https://github.com/Zameerkhan16/z_rag/blob/main/readme.md
